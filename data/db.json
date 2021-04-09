@@ -11,8 +11,8 @@
       "id": 2
     },
     {
-      "name": "Luis",
-      "description": "for testing...again",
+      "name": "Luis Torres",
+      "description": "adasfsd",
       "id": 3
     }
   ],
@@ -52,18 +52,6 @@
       "back": "b",
       "deckId": 1,
       "id": 6
-    },
-    {
-      "front": "c",
-      "back": "c",
-      "id": 7,
-      "deckId": 3
-    },
-    {
-      "front": "b",
-      "back": "b",
-      "deckId": 3,
-      "id": 8
     }
   ]
 }
